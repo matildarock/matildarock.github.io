@@ -110,17 +110,17 @@ author:
   name             : "Nesa Esmi"
   avatar           : "/assets/images3.jpg"
   bio              : I'm a CE student in IUST uni. I play violin. Im intrested in learning new things. 
-  location         : "تهران"
+  location         : " تبریز / تهران"
   email            : army204rm@gmail.com
   twitter: 
   linkedin:
   google_scholar:
   github: matildarock
-  instagram:
+  instagram: matilda_rock
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+       url: mailto:army204rm@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
